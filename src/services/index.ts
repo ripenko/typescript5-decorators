@@ -1,0 +1,1 @@
+export { ISomeService } from "./ISomeService";
